@@ -1,2 +1,6 @@
 # CSC170-Web
-Introduction to Web course in UR
+One of the course I took in University of Rochester
+
+Introduction to Web
+
+I love :tea: ,
